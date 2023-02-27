@@ -1,4 +1,4 @@
-<a href="https://github.com/jhonvlange" rel="external">
+<!-- <a href="https://github.com/jhonvlange" rel="external">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=jhonvlange&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange"
@@ -10,3 +10,4 @@
     alt="jhonvlange"
   />
 </a>
+ -->
